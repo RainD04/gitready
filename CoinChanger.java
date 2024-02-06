@@ -8,7 +8,7 @@ public class CoinChanger {
         sc.close();
 
         if (change == 0) {
-            System.out.println("No change seen");
+            System.out.println("No change");
             return;
         }
 
