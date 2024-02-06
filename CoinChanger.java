@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class CoinChanger {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter total change amount in pennies: ");
+        System.out.print("Enter change amount in pennies: ");
         int change = sc.nextInt();
         sc.close();
 
