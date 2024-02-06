@@ -1,7 +1,7 @@
-Rayne Desales 
+Name- Rayne Desales 
 #
-https://github.com/RainDy04/gitready 
+Github Repo- https://github.com/RainDy04/gitready/tree/master
 # 
-Video Link
+Video Link- https://www.youtube.com/watch?v=qk9YhjgaOYs
 # 
-Apple Screen Record & Visual Studio Code
+Screencast Software/IDE- Apple Screen Record & Visual Studio Code
